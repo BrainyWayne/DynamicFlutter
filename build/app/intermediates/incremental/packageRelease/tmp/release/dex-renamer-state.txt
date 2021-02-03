@@ -1,0 +1,4 @@
+#Wed Feb 03 19:02:36 GMT 2021
+base.0=/home/francis/Desktop/navigation/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
